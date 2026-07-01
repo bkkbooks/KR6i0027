@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0027/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 未來星宿劫千佛名經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0448b.xml
+    old_id: T14n0448b
+hash: sha256:f41c2d453d5c1474a0db48b66ca3fca790d4f37a7f09c73e2d3d61e26a50e7c9

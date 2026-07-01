@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0027/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0027/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 未來星宿劫千佛名經
+  identifiers:
+    krp: KR6i0027
+    cbeta: T14n0448b
+    cbeta_old_id: T14n0448b
+    authorityid: CA0003342b
+    json_key: T0448b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0448b.xml
+    old_id: T14n0448b
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0027_000-T.yaml, hash: 'sha256:f41c2d453d5c1474a0db48b66ca3fca790d4f37a7f09c73e2d3d61e26a50e7c9'}
+  - {seq: 1, filename: KR6i0027_001-T.yaml, hash: 'sha256:434e202ead307f23bcef5051b5ffed5bb8dc9acef7a2a21aaf52d5f59eac4e8d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0027_000-T.markers.yaml, hash: 'sha256:66c5bdd446ef4aa8f9cdbcfa2906991073db6c0a0639d1720e6b4d0fa988e27b'}
+  - {seq: 1, role: markers, filename: assets/KR6i0027_001-T.markers.yaml, hash: 'sha256:807903d75c624f1ce89ee529263cb06ac4c40716d5d84360a92fa2198b49c548'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0027_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7270
+  label: 未來星宿劫千佛名經一名集諸佛大功德山
+  type: juan
+  level: 1
+hash: sha256:89744cf12159bac6bba292a194468e3c6e3635857aab5ad698ee1aae67997cba
