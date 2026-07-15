@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0027/v1
 canonical_location: https://kanripo.org/bkk/KR6i0027/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 未來星宿劫千佛名經
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6i0027_000.yaml, hash: 'sha256:f41c2d453d5c1474a0db48b66ca3fca790d4f37a7f09c73e2d3d61e26a50e7c9'}
-  - {seq: 1, filename: KR6i0027_001.yaml, hash: 'sha256:434e202ead307f23bcef5051b5ffed5bb8dc9acef7a2a21aaf52d5f59eac4e8d'}
+  - {seq: 1, filename: KR6i0027_001.yaml, hash: 'sha256:b0be9530de039791c8fc2aeac3fcda9e72b1f140f2b5a9318e28c6fce88d11fb'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0027_000.markers.yaml, hash: 'sha256:0d9b7f25a7e86b66af8bef1d79d8e50ff1501d96d515bc25e12ffb41ade7bbe4'}
-  - {seq: 1, role: markers, filename: assets/KR6i0027_001.markers.yaml, hash: 'sha256:8239f682a326398ec40a5affc4f7e7e17a10cfcf73f1659cc0e22517494bb24d'}
+  - {seq: 1, role: markers, filename: assets/KR6i0027_001.markers.yaml, hash: 'sha256:363110ae935962ca54bb601d00c8809256f7f76b89543836ecad6eb8fc680dbe'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 未來星宿劫千佛名經一名集諸佛大功德山
   type: juan
   level: 1
-hash: sha256:dcb7a527b34515ee8a294bac4d7afd034a3e22af5e3737a50afec043bf4cacac
+hash: sha256:ea5bf495b75a959bb9c38e4a7d9c75612954c75e1d2b16588cc9a1c348e3449d
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
